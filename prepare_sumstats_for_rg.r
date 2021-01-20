@@ -1,4 +1,4 @@
-### Preapring Files for Genetic Correlation Analysis Using LDSC ######
+### Preparing Files for Genetic Correlation Analysis Using LDSC ######
 
 ### Step One: Read in File ######
 
